@@ -1,22 +1,19 @@
-### overview
-In this project I created an instagram page.
+## overview
+I created a simplified version of an Instagram user profile page. The aim of this project is to practice CSS styling and layout to create a visually appealing and responsive web page.
 
-### Reflections
+## Screenshot
 
-#### Areas of Mastery
 
-- **CSS Layout Techniques**: Flexbox and Grit for my Image.
-- **Responsive Design**: It adjust to different devices.
-- 
-
-#### Challenges Faced
-
-I am still learning so sometimes I get lost in the middle of the code and forget what i was trying to implement.
-
-#### Areas for Improvement
-
+## Areas of Mastery
+**CSS Layout Techniques :**
+I used Flexbox and Grit to arrange my images in a row-column style.
+  
+## Challenges Faced
 alignment of my page layout like putting the eddid button above the stats profile.
 
-#### Overall Learning Experience
+## Areas for Improvement
+- Ensure that my web page function properky on desktop and mobile devices.
+- implement responsive design using media queries, making adjustments for small screens.
 
-I enjoyed the challenge. It gave an understanding of what to expect in the real world of programming
+## Overall Learning Experience
+I enjoyed the challenge, I had fun turning HTML into  a stylish Instagram profile!. It gave an understanding of what to expect in the real world of programming.
