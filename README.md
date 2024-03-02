@@ -2,6 +2,7 @@
 I created a simplified version of an Instagram user profile page. The aim of this project is to practice CSS styling and layout to create a visually appealing and responsive web page.
 
 ## Screenshot
+![Uploading Screenshot (57).png…]()
 
 
 ## Areas of Mastery
