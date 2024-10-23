@@ -64,13 +64,8 @@ img {
 border-radius: 10%;
   border: none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer
+ 
+
  }
  
  /* Button 1 styling */
@@ -182,6 +177,11 @@ border-radius: 10%;
     margin-right: 4rem;
     cursor: pointer;
 }
+
+@media screen and (max-width: 600px) {
+    .profile-stats {
+        text-align: center;
+    }
 
 .profile-stats li:last-of-type {
     margin-right: 0;
